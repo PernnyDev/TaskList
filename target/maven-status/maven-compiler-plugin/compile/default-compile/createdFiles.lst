@@ -1,0 +1,7 @@
+br\edu\fateccotia\tasklist\controller\TaskController.class
+br\edu\fateccotia\tasklist\TasklistApplication.class
+br\edu\fateccotia\tasklist\model\Task.class
+br\edu\fateccotia\tasklist\enums\TaskStatus.class
+br\edu\fateccotia\config\WebConfig.class
+br\edu\fateccotia\tasklist\repository\TaskRepository.class
+br\edu\fateccotia\tasklist\service\TaskService.class
